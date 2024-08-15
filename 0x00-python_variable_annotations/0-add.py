@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Module for adding two float numbers.
 
-This module contains a single function `add` that takes two float
+This module contains a single function `add` that takes two
 numbers as arguments and returns their sum.
 """
 
@@ -15,4 +15,4 @@ def add(a: float, b: float) -> float:
     Returns:
         float: The sum of the two float numbers.
     """
-    return a + b
+    return (a + b)
