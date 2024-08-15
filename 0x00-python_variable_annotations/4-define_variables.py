@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-""" Returns the string representation of the float """
+""" Defines and annotates variables """
 
 
-def to_str(n: float) -> str:
-    """ takes a float n and returns the string of the float """
-    return (str(n))
+a: int = 1
+pi: float = 3.14
+i_understand_annotations: bool = True
+school: str = "Holberton"
